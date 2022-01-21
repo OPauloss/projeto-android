@@ -70,6 +70,7 @@ main{
     padding: 20px;
 }
 main > h1 {
+    text-align: left;
     font-family: 'idroid';
     color: var(--cor5);
 }
